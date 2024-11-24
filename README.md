@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @neerajsde
-- 👀 I’m interested in Full stack web developer
-- 🌱 I’m currently learning DSA and enhance web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m **@neerajsde**, a passionate Full Stack Web Developer.  
+- 👀 I’m interested in creating innovative, user-friendly, and efficient web applications.  
+- 🌱 I’m currently enhancing my skills in **Data Structures and Algorithms (DSA)** while mastering advanced web development techniques.  
+- 💞️ I’m open to collaborating on exciting **MERN stack projects** or any web development opportunities.  
+- 📫 Feel free to reach me at **[https://neerajprajapati.in/]**.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I believe a clean and optimized code can solve more problems than coffee! ☕
